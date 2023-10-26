@@ -23,12 +23,12 @@
       {
         "id": 1,
         "name": "Puertas y Rejas",
-        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346026/Herreria%20Torres/icons/puerta_y_reja-icon_vops6t.png"
+        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346026/Herreria%20Torres/Iconos/puerta_y_reja-icon_vops6t.png"
       },
       {
         "id": 2,
         "name": "Ventanas",
-        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346027/Herreria%20Torres/icons/ventana-icon_g9lhq1.png"
+        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346027/Herreria%20Torres/Iconos/ventana-icon_g9lhq1.png"
       }
     ]
   }
