@@ -1,34 +1,34 @@
 {
-    "models": [
-      {
-        "id": 1,
-        "name": "Diseño 1",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345913/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_1_sqfcck.jpg",
-        "categoriaId": 1
-      },
-      {
-        "id": 2,
-        "name": "Diseño 2",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345920/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_2_s28vfg.jpg",
-        "categoriaId": 1
-      },
-      {
-        "id": 3,
-        "name": "Diseño 1",
-        "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345969/Herreria%20Torres/Ventanas/ventana_1_m5d9en.jpg",
-        "categoriaId": 2
-      }
-    ],
     "categories": [
       {
         "id": 1,
         "name": "Puertas y Rejas",
-        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346026/Herreria%20Torres/Iconos/puerta_y_reja-icon_vops6t.png"
+        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346026/Herreria%20Torres/Iconos/puerta_y_reja-icon_vops6t.png",
+        "models": [
+            {
+                "id": 1,
+                "name": "Diseño 1",
+                "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345913/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_1_sqfcck.jpg"
+              },
+              {
+                "id": 2,
+                "name": "Diseño 2",
+                "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345920/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_2_s28vfg.jpg"
+              }
+            ]
       },
       {
         "id": 2,
         "name": "Ventanas",
-        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346027/Herreria%20Torres/Iconos/ventana-icon_g9lhq1.png"
+        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346027/Herreria%20Torres/Iconos/ventana-icon_g9lhq1.png",
+        "models": [
+            {
+                "id": 3,
+                "name": "Diseño 1",
+                "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345969/Herreria%20Torres/Ventanas/ventana_1_m5d9en.jpg",
+                "categoriaId": 2
+            }
+        ]
       }
     ]
   }
