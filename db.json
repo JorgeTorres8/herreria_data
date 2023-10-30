@@ -1,34 +1,608 @@
 {
-    "categories": [
-      {
-        "id": 1,
-        "name": "Puertas y Rejas",
-        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346026/Herreria%20Torres/Iconos/puerta_y_reja-icon_vops6t.png",
-        "models": [
+  "categories": [
+    {
+      "id": 1,
+      "name": "Puertas y Rejas",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346026/Herreria%20Torres/Iconos/puerta_y_reja-icon_vops6t.png",
+      "models": [
+          {
+              "id": 1,
+              "name": "Diseño 1",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602279/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_1_cqhnd2.jpg"
+            },
             {
-                "id": 1,
-                "name": "Diseño 1",
-                "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345913/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_1_sqfcck.jpg"
-              },
-              {
-                "id": 2,
-                "name": "Diseño 2",
-                "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345920/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_2_s28vfg.jpg"
-              }
-            ]
-      },
-      {
-        "id": 2,
-        "name": "Ventanas",
-        "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346027/Herreria%20Torres/Iconos/ventana-icon_g9lhq1.png",
-        "models": [
+              "id": 2,
+              "name": "Diseño 2",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602279/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_2_teucpa.jpg"
+            },
             {
-                "id": 3,
-                "name": "Diseño 1",
-                "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698345969/Herreria%20Torres/Ventanas/ventana_1_m5d9en.jpg",
-                "categoriaId": 2
+              "id": 3,
+              "name": "Diseño 3",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602279/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_3_nlfgqs.jpg"
+            },
+            {
+              "id": 4,
+              "name": "Diseño 4",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602279/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_4_mndkdk.jpg"
+            },
+            {
+              "id": 5,
+              "name": "Diseño 5",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602279/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_5_rousyr.jpg"
+            },
+            {
+              "id": 6,
+              "name": "Diseño 6",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602279/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_6_obv8wd.jpg"
+            },
+            {
+              "id": 7,
+              "name": "Diseño 7",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_7_br4ftc.jpg"
+            },
+            {
+              "id": 8,
+              "name": "Diseño 8",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_8_u6rzh9.jpg"
+            },
+            {
+              "id": 9,
+              "name": "Diseño 9",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_9_i4jbdu.jpg"
+            },
+            {
+              "id": 10,
+              "name": "Diseño 10",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_10_zkf1qh.jpg"
+            },
+            {
+              "id": 11,
+              "name": "Diseño 11",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_11_kv2qcd.jpg"
+            },
+            {
+              "id": 12,
+              "name": "Diseño 12",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_12_mve9ho.jpg"
+            },
+            {
+              "id": 13,
+              "name": "Diseño 13",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_13_ccdani.jpg"
+            },
+            {
+              "id": 14,
+              "name": "Diseño 14",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_14_t5nxmx.jpg"
+            },
+            {
+              "id": 15,
+              "name": "Diseño 15",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602280/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_15_o157ee.jpg"
+            },
+            {
+              "id": 16,
+              "name": "Diseño 16",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602283/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_16_nz6rdo.jpg"
+            },
+            {
+              "id": 17,
+              "name": "Diseño 17",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602283/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_17_l6pooa.jpg"
+            },
+            {
+              "id": 18,
+              "name": "Diseño 18",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602283/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_18_lmzadl.jpg"
+            },
+            {
+              "id": 19,
+              "name": "Diseño 19",
+              "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602283/Herreria%20Torres/Puertas%20y%20Rejas/puerta-reja_19_g2dqie.jpg"
             }
-        ]
-      }
-    ]
-  }
+          ]
+    },
+    {
+      "id": 2,
+      "name": "Ventanas",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346027/Herreria%20Torres/Iconos/ventana-icon_g9lhq1.png",
+      "models": [
+        {
+          "id": 1,
+          "name": "Diseño 1",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_1_qkucnh.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Diseño 2",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_2_x1tylg.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Diseño 3",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_3_v0ijdd.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Diseño 4",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_4_dqtnpj.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Diseño 5",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_5_l17lwb.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Diseño 6",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_6_jnc9qc.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Diseño 7",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_7_eppjqo.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Diseño 8",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_8_cdksvj.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Diseño 9",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_9_iiwcgs.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Diseño 10",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_10_qrbzql.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Diseño 11",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_11_j8qm6a.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Diseño 12",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602945/Herreria%20Torres/Ventanas/ventana_12_m2izfw.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Diseño 13",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602948/Herreria%20Torres/Ventanas/ventana_13_fdy4d2.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Diseño 14",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602948/Herreria%20Torres/Ventanas/ventana_14_w3cueq.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Diseño 15",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602948/Herreria%20Torres/Ventanas/ventana_15_xpdyoa.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Diseño 16",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602948/Herreria%20Torres/Ventanas/ventana_16_nzreh0.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Portones",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346031/Herreria%20Torres/Iconos/porton-icon_bsbjoo.png",
+      "models": [
+        {
+          "id": 1,
+          "name": "Diseño 1",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602983/Herreria%20Torres/Portones/porton_1_f3nnhb.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Diseño 2",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602983/Herreria%20Torres/Portones/porton_2_y9neis.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Diseño 3",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602983/Herreria%20Torres/Portones/porton_3_qrw30n.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Diseño 4",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602983/Herreria%20Torres/Portones/porton_4_uaum8f.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Diseño 5",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602985/Herreria%20Torres/Portones/porton_5_czekcy.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Diseño 6",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602984/Herreria%20Torres/Portones/porton_6_vgwqdi.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Diseño 7",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602987/Herreria%20Torres/Portones/porton_7_jnuguc.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Diseño 8",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602989/Herreria%20Torres/Portones/porton_8_qqkljd.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Diseño 9",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602984/Herreria%20Torres/Portones/porton_9_dordgb.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Diseño 10",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602985/Herreria%20Torres/Portones/porton_10_axbjv2.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Diseño 11",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602988/Herreria%20Torres/Portones/porton_11_juki2i.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Diseño 12",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602989/Herreria%20Torres/Portones/porton_12_nmctww.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Diseño 13",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602986/Herreria%20Torres/Portones/porton_13_tze5er.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Diseño 14",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602986/Herreria%20Torres/Portones/porton_14_ow8mjd.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Diseño 15",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602984/Herreria%20Torres/Portones/porton_15_myywlr.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Diseño 16",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698602987/Herreria%20Torres/Portones/porton_16_mo3rq8.jpg"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Escaleras",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698600646/Herreria%20Torres/Iconos/escalera-icon_tq4zrk.png",
+      "models": [
+        {
+          "id": 1,
+          "name": "Diseño 1",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603024/Herreria%20Torres/Escaleras/escalera_1_nwikcz.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Diseño 2",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603025/Herreria%20Torres/Escaleras/escalera_2_lmy9a0.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Diseño 3",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603025/Herreria%20Torres/Escaleras/escalera_3_wzfkht.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Diseño 4",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603025/Herreria%20Torres/Escaleras/escalera_4_aszptq.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Diseño 5",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603029/Herreria%20Torres/Escaleras/escalera_5_uybmxy.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Diseño 6",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603026/Herreria%20Torres/Escaleras/escalera_6_umd1mg.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Diseño 7",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603031/Herreria%20Torres/Escaleras/escalera_7_nkfmtn.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Diseño 8",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603028/Herreria%20Torres/Escaleras/escalera_8_p45qiw.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Diseño 9",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603028/Herreria%20Torres/Escaleras/escalera_9_pdnt5e.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Diseño 10",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603030/Herreria%20Torres/Escaleras/escalera_10_jzt35z.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Diseño 11",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603028/Herreria%20Torres/Escaleras/escalera_11_teh4tk.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Diseño 12",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603030/Herreria%20Torres/Escaleras/escalera_12_ywtpy9.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Diseño 13",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603031/Herreria%20Torres/Escaleras/escalera_13_qjoqhr.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Diseño 14",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603027/Herreria%20Torres/Escaleras/escalera_14_wlx8wb.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Diseño 15",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603032/Herreria%20Torres/Escaleras/escalera_15_xmvh09.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Diseño 16",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603026/Herreria%20Torres/Escaleras/escalera_16_bbkqb3.jpg"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Muebles",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346032/Herreria%20Torres/Iconos/mueble-icon_qpxfhv.png",
+      "models": [
+        {
+          "id": 1,
+          "name": "Diseño 1",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603064/Herreria%20Torres/Muebles/mueble_1_d7uyjv.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Diseño 2",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603065/Herreria%20Torres/Muebles/mueble_2_ijebsr.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Diseño 3",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603065/Herreria%20Torres/Muebles/mueble_3_fixzql.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Diseño 4",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603066/Herreria%20Torres/Muebles/mueble_4_vprjd5.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Diseño 5",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603066/Herreria%20Torres/Muebles/mueble_5_y0t0xd.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Diseño 6",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603067/Herreria%20Torres/Muebles/mueble_6_oarwuq.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Diseño 7",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603068/Herreria%20Torres/Muebles/mueble_7_r3ava9.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Diseño 8",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603068/Herreria%20Torres/Muebles/mueble_8_vwnopl.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Diseño 9",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603069/Herreria%20Torres/Muebles/mueble_9_ilg5gn.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Diseño 10",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603070/Herreria%20Torres/Muebles/mueble_10_kbemil.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Diseño 11",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603070/Herreria%20Torres/Muebles/mueble_11_w01ot7.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Diseño 12",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603071/Herreria%20Torres/Muebles/mueble_12_wowtsp.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Diseño 13",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603072/Herreria%20Torres/Muebles/mueble_13_r3tsdq.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Diseño 14",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603073/Herreria%20Torres/Muebles/mueble_14_miyaec.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Diseño 15",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603073/Herreria%20Torres/Muebles/mueble_15_jtnwhv.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Diseño 16",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603074/Herreria%20Torres/Muebles/mueble_16_nmtw0n.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Diseño 17",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603075/Herreria%20Torres/Muebles/mueble_17_jseqlq.jpg"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Barandales",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346028/Herreria%20Torres/Iconos/barandal-icon_mcmmi0.png",
+      "models": [
+        {
+          "id": 1,
+          "name": "Diseño 1",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603146/Herreria%20Torres/Barandales/barandal_1_hubexr.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Diseño 2",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603147/Herreria%20Torres/Barandales/barandal_2_p8yyes.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Diseño 3",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603147/Herreria%20Torres/Barandales/barandal_3_meojag.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Diseño 4",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603148/Herreria%20Torres/Barandales/barandal_4_voygus.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Diseño 5",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603149/Herreria%20Torres/Barandales/barandal_5_kanhf7.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Diseño 6",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603149/Herreria%20Torres/Barandales/barandal_6_lskoco.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Diseño 7",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603150/Herreria%20Torres/Barandales/barandal_7_s1hoqw.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Diseño 8",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603150/Herreria%20Torres/Barandales/barandal_8_zmkgah.jpg"
+        },
+        {
+          "id": 9,
+          "name": "Diseño 9",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603151/Herreria%20Torres/Barandales/barandal_9_qtn8im.jpg"
+        },
+        {
+          "id": 10,
+          "name": "Diseño 10",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603152/Herreria%20Torres/Barandales/barandal_10_ruuzmv.jpg"
+        },
+        {
+          "id": 11,
+          "name": "Diseño 11",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603153/Herreria%20Torres/Barandales/barandal_11_ncn0u8.jpg"
+        },
+        {
+          "id": 12,
+          "name": "Diseño 12",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603154/Herreria%20Torres/Barandales/barandal_12_wh4opn.jpg"
+        },
+        {
+          "id": 13,
+          "name": "Diseño 13",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603155/Herreria%20Torres/Barandales/barandal_13_kzsiid.jpg"
+        },
+        {
+          "id": 14,
+          "name": "Diseño 14",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603156/Herreria%20Torres/Barandales/barandal_14_wq1yhb.jpg"
+        },
+        {
+          "id": 15,
+          "name": "Diseño 15",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603156/Herreria%20Torres/Barandales/barandal_15_q1ezkf.jpg"
+        },
+        {
+          "id": 16,
+          "name": "Diseño 16",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603158/Herreria%20Torres/Barandales/barandal_16_pfsez1.jpg"
+        },
+        {
+          "id": 17,
+          "name": "Diseño 17",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603158/Herreria%20Torres/Barandales/barandal_17_urr45i.jpg"
+        },
+        {
+          "id": 18,
+          "name": "Diseño 18",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603159/Herreria%20Torres/Barandales/barandal_18_r6kekb.jpg"
+        },
+        {
+          "id": 19,
+          "name": "Diseño 19",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603161/Herreria%20Torres/Barandales/barandal_19_ixcbry.jpg"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Estructuras Metálicas",
+      "icon": "https://res.cloudinary.com/cloudjt8/image/upload/v1698346030/Herreria%20Torres/Iconos/estructura_metalica-icon_zbwu1u.png",
+      "models": [
+        {
+          "id": 1,
+          "name": "Diseño 1",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603190/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_1_bv0djd.jpg"
+        },
+        {
+          "id": 2,
+          "name": "Diseño 2",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603191/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_2_kradx9.jpg"
+        },
+        {
+          "id": 3,
+          "name": "Diseño 3",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603192/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_3_u0vghb.jpg"
+        },
+        {
+          "id": 4,
+          "name": "Diseño 4",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603192/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_4_ywloiv.jpg"
+        },
+        {
+          "id": 5,
+          "name": "Diseño 5",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603193/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_5_mh52vz.jpg"
+        },
+        {
+          "id": 6,
+          "name": "Diseño 6",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603194/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_6_mfl4hv.jpg"
+        },
+        {
+          "id": 7,
+          "name": "Diseño 7",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603195/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_7_wdek5h.jpg"
+        },
+        {
+          "id": 8,
+          "name": "Diseño 8",
+          "image": "https://res.cloudinary.com/cloudjt8/image/upload/v1698603195/Herreria%20Torres/Estructuras%20Met%C3%A1licas/estructura_8_muuhcw.jpg"
+        }
+      ]
+    }
+  ]
+}
